@@ -8,7 +8,7 @@ Este repositorio esta enfocado a mi experiencia en bajo a un curso en JavaScript
 
 Los Módulos del Curso son los siguientes:
 
-- [X] Modulo 1: [Introducción al Curso y JavaScript.](https://github.com/AndresVegaP/CursoMasterJavascript/tree/master/Modulo%201%20-%20Introduccion%20a%20JavaScript)
+- [ ] Modulo 1: Introducción al Curso y JavaScript.
 - [ ] Modulo 2: Variables en JavaScript.
 - [ ] Modulo 3: Strings o Cadenas de Texto y sus Métodos.
 - [ ] Modulo 4: Números en JavaScript.
